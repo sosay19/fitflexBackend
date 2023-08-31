@@ -1,0 +1,38 @@
+# Visual Studio / Rider
+.vscode/
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vspscc
+*.sln.ide
+
+# NuGet
+packages/
+*.nupkg
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# Entity Framework migrations
+*/Migrations/
+*/__EFMigrationsHistory
+
+# User-specific files
+*.userprefs
+*.suo
+*.user
+*.sln.ide
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
